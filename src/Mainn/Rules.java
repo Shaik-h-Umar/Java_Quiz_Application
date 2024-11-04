@@ -14,7 +14,7 @@ public class Rules extends JFrame implements ActionListener{
         getContentPane().setBackground(Color.WHITE);
         setLayout(null);
         
-        JLabel heading = new JLabel("Welcome " + name + " to Simple Minds");
+        JLabel heading = new JLabel("Welcome " + name + " to Quizify");
         heading.setBounds(50, 20, 700, 30);
         heading.setFont(new Font("Viner Hand ITC", Font.BOLD, 28));
         heading.setForeground(new Color(30, 144, 254));
@@ -30,7 +30,7 @@ public class Rules extends JFrame implements ActionListener{
                 "3. You may have lot of options in life but here all the questions are compulsory" + "<br><br>" +
                 "4. Crying is allowed but please do so quietly." + "<br><br>" +
                 "5. Only a fool asks and a wise answers (Be wise, not otherwise)" + "<br><br>" +
-                "6. Do not get nervous if your friend is answering more questions, may be he/she is doing Jai Mata Di" + "<br><br>" +
+                "6. Do not get nervous if your friend is answering more questions, may be he/she is doing Kaala Jadu" + "<br><br>" +
                 "7. Brace yourself, this paper is not for the faint hearted" + "<br><br>" +
                 "8. May you know more than what John Snow knows, Good Luck" + "<br><br>" +
             "<html>"
