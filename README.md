@@ -17,7 +17,30 @@ The Interactive Quiz Application is a GUI-based quiz system developed in Java th
 This Java-based quiz application provides a user-friendly interface for conducting quizzes. Users can log in, view quiz rules, and answer timed questions. The app includes features like a 50-50 lifeline, ensuring an engaging and interactive experience.
 
 ## Demo
-Demo will be uploaded soon!
+
+Here are some screenshots of the Interactive Quiz Application:
+
+### Login Page
+![Login Page](src/Mainn/Images/Working/Login%20Page.png)
+
+### Rules Page
+![Rules Page](src/Mainn/Images/Working/Rules%20Page.png)
+
+### Quiz Page
+![Quiz Page](src/Mainn/Images/Working/Quiz%20Page.png)
+
+### Quiz Page After Using 50-50 Lifeline
+![Quiz Page After Using 50-50 Lifeline](src/Mainn/Images/Working/Quiz%20Page%20after%20using%2050-50%20Life%20line.png)
+
+### Score Page
+![Score Page](src/Mainn/Images/Working/Score%20Page.png)
+
+### Database Schema
+![Database Schema](src/Mainn/Images/Working/Database%20Schema.png)
+
+### Database Values After Login
+![Values Transferred to Database After Login](src/Mainn/Images/Working/Values%20that%20are%20transferred%20into%20the%20Database%20after%20login.png)
+
 
 ## Key Features
 - **User Authentication**: Users must log in to start the quiz.
