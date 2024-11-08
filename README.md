@@ -57,7 +57,7 @@ Here are some screenshots of the Interactive Quiz Application:
 ## Setup and Installation
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Interactive_Quiz_Application.git
+   git clone https://github.com/Shaik-h-Umar/Java_Quiz_Application.git
 
 ## Download Dependencies
 
